@@ -1,0 +1,5 @@
+
+ To create a documentation we're gonna be using some design notes 
+that can be found inside the components.
+
+
